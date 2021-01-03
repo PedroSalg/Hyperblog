@@ -5,9 +5,9 @@ ES DECIR TODO LO SEA EL ENCABEZADO DE LA PAGINA WEB. SU TRABAJO SE
 MUESTRA EN LAS ANTERIOR LINEAS DE COMANDO.
 
 Este sera el documento en el cual podremos encontrar la bibliografía de 
-pedro andres salgado meza
+Pedro Andrés Salgado Meza
 
-Pedro inicio sus estudios en la nomal de corzal y luego paso a estudiar a la normal de sincelejo. 
+Pedro inicio sus estudios en la nomal de corozal y luego paso a estudiar a la normal de sincelejo. 
 
 Para seguir con sus estudios universitarios en la universidad industrial de santander
 donde recientemente recibio su titulo como ingeniero electrónico.
@@ -21,3 +21,5 @@ EN ESTA PARTE DEL TRABAJAO ESTARA TRABAJANDO LA PERSONA KALIP PETER CON SU USUAR
 KALIP ESTARA ENCARGADO DE MANEJAR LA PARTE INFIERIOR O EL PIE DE LA PAGINA WEB Y SU 
 TRABAJO ESTA DISPOSIBLE AL FINAL DEL PRESENTE DOCUMENTO TAL Y COMO LO MUESTRA LAS 
 LINEAS DE CODIGO ANTERIORMENTE MOSTRADAS.
+
+Realizamos cambios a entidades HTML
