@@ -7,3 +7,10 @@ Para seguir con sus estudios universitarios en la universidad industrial de sant
 donde recientemente recibio su titulo como ingeniero electrónico.
 
 Ahora pedro se encuentra en proceso de inscripción al postgrado.
+
+
+EN ESTA PARTE DEL TRABAJAO ESTARA TRABAJANDO LA PERSONA KALIP PETER CON SU USUARIO
+			kalippeter
+KALIP ESTARA ENCARGADO DE MANEJAR LA PARTE INFIERIOR O EL PIE DE LA PAGINA WEB Y SU 
+TRABAJO ESTA DISPOSIBLE AL FINAL DEL PRESENTE DOCUMENTO TAL Y COMO LO MUESTRA LAS 
+LINEAS DE CODIGO ANTERIORMENTE MOSTRADAS.
